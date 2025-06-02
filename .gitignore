@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build and distribution folders
+dist/
+build/
+
+# Electron packaging
+*.asar
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Mac-specific
+.AppleDouble
+.LSOverride
+
+# Test coverage
+coverage/
